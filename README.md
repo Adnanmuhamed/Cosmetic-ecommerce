@@ -1,4 +1,4 @@
-Project Demo : https://648e99873722947deac636f5--sage-dusk-64ff08.netlify.app/ 
+Project Demo : https://cosmetic-ecommerce-md-adnans-projects.vercel.app/ 
 
 (https://github.com/Adnanmuhamed/Cosmetic-ecommerce.git)
 
