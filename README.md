@@ -1,7 +1,7 @@
 
 # Cosmetic E-Commerce Website
 
-![Cosmetic E-Commerce Logo](https://your-logo-url.com/logo.png) <!-- Replace with an actual logo URL if you have one -->
+
 
 ## Overview
 
